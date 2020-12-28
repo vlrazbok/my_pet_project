@@ -1,0 +1,27 @@
+.answers{
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+}
+.test-label{
+  display: flex;
+  align-items: center;
+}
+
+.output{
+  display: none;
+}
+.canvas{
+  display: none;
+}
+.camera{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.test-result{
+  display: flex;
+  justify-content: center;
+}

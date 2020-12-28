@@ -1,0 +1,9 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.auth-buttons{
+  display: flex;
+  justify-content: space-around;
+}
+.auth-page{
+  margin-top: 220px;
+}
